@@ -6,3 +6,4 @@ Anna Fratucello
 Mauro Vanetti
 Elisabetta Vitale
 Zhu Qizhang
+Wang Zhixi
