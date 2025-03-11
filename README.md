@@ -5,3 +5,7 @@ Anna Fratucello
 Mauro Vanetti
 Elisabetta Vitale
 Aleksandra Lavrova
+Zhu Qizhang
+Guo Jiutong
+Wang Zhixi
+Veronica Sbardellati
