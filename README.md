@@ -7,3 +7,4 @@ Mauro Vanetti
 Elisabetta Vitale
 Zhu Qizhang
 Guo Jiutong
+Veronica Sbardellati
