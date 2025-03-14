@@ -143,6 +143,7 @@ Material:
     - _EmissionEnabled: 0
     - _EnableExternalAlpha: 0
     - _EnvironmentReflections: 1
+    - _FlipbookBlending: 0
     - _FlipbookMode: 0
     - _GlossMapScale: 0
     - _Glossiness: 0
@@ -170,7 +171,8 @@ Material:
     m_Colors:
     - Color_C66DE798: {r: 1.874148, g: 1.042151, b: 0.2563694, a: 0}
     - Vector2_ED508732: {r: 0.2, g: 0.9, b: 0, a: 0}
-    - _BaseColor: {r: 1, g: 0.85721934, b: 0, a: 1}
+    - _BaseColor: {r: 1, g: 0.82910883, b: 0, a: 1}
+    - _BaseColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _CameraFadeParams: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 1, g: 0.85721934, b: 0, a: 1}
     - _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
