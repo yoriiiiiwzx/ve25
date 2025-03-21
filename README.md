@@ -6,6 +6,7 @@ Projects for Virtual Environments class 2025 at NABA Milan
 - Anna Fratucello
 - Guo Jiutong
 - Aleksandra Lavrova
+- Qi Baile
 - Veronica Sbardellati
 - Mauro Vanetti
 - Elisabetta Vitale
